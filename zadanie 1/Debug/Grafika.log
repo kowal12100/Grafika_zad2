@@ -1,0 +1,4 @@
+﻿  Grafika.cpp
+c:\users\kamil\desktop\grafika\zad 2\zad1\grafika\grafika\grafika.cpp(28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kamil\desktop\grafika\zad 2\zad1\grafika\grafika\grafika.cpp(29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Grafika.vcxproj -> C:\Users\Kamil\Desktop\Grafika\zad 2\zad1\Grafika\Debug\Grafika.exe
